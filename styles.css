@@ -3,6 +3,8 @@ body {
   margin: 0;
   background-color: #333;
   color: #f7f7f7;
+  float: right;
+  width: 75%;
 }
 
 header {
@@ -42,8 +44,9 @@ p {
 }
 
 nav {
-  width: 100%;
+  width: 25%;
   background: #333;
+  float: left;
 }
 
 nav ul {
